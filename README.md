@@ -24,9 +24,15 @@
 - [PluralSight](https://www.pluralsight.com)
 - [Udemy](https://www.udemy.com)
 
+### React
+- [Awesome-React](https://github.com/enaqx/awesome-react)
+- [More Awesome React](https://libraries.io/github/gaearon/awesome-react)
+- [Awesome-React-Components](https://github.com/brillout/awesome-react-components)
+
 ### Rust
 - [Rust REPL & IDE](https://repl.it/repls/IntelligentSunnyWireframe)
 - [Rust Playground](https://play.rust-lang.org)
+- [Awesome-Rust](https://github.com/rust-unofficial/awesome-rust#gui)
 
 ### Scala
 - [Online Playground](https://scastie.scala-lang.org)
