@@ -20,7 +20,7 @@
 - [Plunker](http://plnkr.co)
 - [REPL](https://repl.it)
 
-## Online Learning
+### Online Learning
 - [PluralSight](https://www.pluralsight.com)
 - [Udemy](https://www.udemy.com)
 
