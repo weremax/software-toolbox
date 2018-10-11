@@ -1,11 +1,6 @@
 ## Software-Toolbox
 
-### Golang
-- [https://play.golang.org](https://play.golang.org)
-- [https://goplay.space](https://goplay.space)
-- [https://go-sandbox.com](https://go-sandbox.com)
-
-### HTML, CSS, Javascript, & More
+### CSS, HTML, Javascript, & More
 - [https://codesandbox.io](https://codesandbox.io)
 - [https://codepen.io](https://codepen.io)
 - [http://cssdeck.com](http://cssdeck.com)
@@ -19,6 +14,11 @@
 - [https://js.do](https://js.do)
 - [http://plnkr.co](http://plnkr.co)
 - [https://repl.it](https://repl.it)
+
+### Golang
+- [https://play.golang.org](https://play.golang.org)
+- [https://goplay.space](https://goplay.space)
+- [https://go-sandbox.com](https://go-sandbox.com)
 
 ### Online Learning
 - [https://www.pluralsight.com](https://www.pluralsight.com)
