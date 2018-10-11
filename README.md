@@ -1,38 +1,38 @@
 ## Software-Toolbox
 
 ### Golang
-- [Go Playground](https://play.golang.org)
-- [Go Play Space](https://goplay.space)
-- [Go Sandbox](https://go-sandbox.com)
+- [https://play.golang.org](https://play.golang.org)
+- [https://goplay.space](https://goplay.space)
+- [https://go-sandbox.com](https://go-sandbox.com)
 
 ### HTML, CSS, Javascript, & More
-- [Angular, Preact, React, Vue, Vanilla](https://codesandbox.io)
-- [CodePen](https://codepen.io)
-- [CSSDeck](http://cssdeck.com)
-- [Dabblet](http://dabblet.com)
-- [JSBin](http://jsbin.com/?html,output)
-- [JSComplete](https://jscomplete.com/playground)
-- [JSFiddle](https://jsfiddle.net)
-- [JSHint](https://jshint.com)
-- [JSLint](http://www.jslint.com)
-- [Liveweave](https://liveweave.com)
-- [Online Javascript Editor](https://js.do)
-- [Plunker](http://plnkr.co)
-- [REPL](https://repl.it)
+- [https://codesandbox.io](https://codesandbox.io)
+- [https://codepen.io](https://codepen.io)
+- [http://cssdeck.com](http://cssdeck.com)
+- [http://dabblet.com](http://dabblet.com)
+- [http://jsbin.com/](http://jsbin.com)
+- [https://jscomplete.com/playground](https://jscomplete.com/playground)
+- [https://jsfiddle.net](https://jsfiddle.net)
+- [https://jshint.com](https://jshint.com)
+- [http://www.jslint.com](http://www.jslint.com)
+- [https://liveweave.com](https://liveweave.com)
+- [https://js.do](https://js.do)
+- [http://plnkr.co](http://plnkr.co)
+- [https://repl.it](https://repl.it)
 
 ### Online Learning
-- [PluralSight](https://www.pluralsight.com)
-- [Udemy](https://www.udemy.com)
+- [https://www.pluralsight.com](https://www.pluralsight.com)
+- [https://www.udemy.com](https://www.udemy.com)
 
 ### React
-- [Awesome-React](https://github.com/enaqx/awesome-react)
-- [More Awesome React](https://libraries.io/github/gaearon/awesome-react)
-- [Awesome-React-Components](https://github.com/brillout/awesome-react-components)
+- [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+- [https://libraries.io/github/gaearon/awesome-react](https://libraries.io/github/gaearon/awesome-react)
+- [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
 
 ### Rust
-- [Rust REPL & IDE](https://repl.it/repls/IntelligentSunnyWireframe)
-- [Rust Playground](https://play.rust-lang.org)
-- [Awesome-Rust](https://github.com/rust-unofficial/awesome-rust#gui)
+- [https://repl.it/repls/IntelligentSunnyWireframe](https://repl.it/repls/IntelligentSunnyWireframe)
+- [https://play.rust-lang.org](https://play.rust-lang.org)
+- [https://github.com/rust-unofficial/awesome-rust#gui](https://github.com/rust-unofficial/awesome-rust#gui)
 
 ### Scala
-- [Online Playground](https://scastie.scala-lang.org)
+- [https://scastie.scala-lang.org](https://scastie.scala-lang.org)
