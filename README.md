@@ -5,7 +5,7 @@
 - [https://codepen.io](https://codepen.io)
 - [http://cssdeck.com](http://cssdeck.com)
 - [http://dabblet.com](http://dabblet.com)
-- [http://jsbin.com/](http://jsbin.com)
+- [http://jsbin.com](http://jsbin.com)
 - [https://jscomplete.com/playground](https://jscomplete.com/playground)
 - [https://jsfiddle.net](https://jsfiddle.net)
 - [https://jshint.com](https://jshint.com)
